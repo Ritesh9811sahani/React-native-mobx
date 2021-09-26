@@ -3,7 +3,7 @@
 # Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 ```
-git clone https://github.com/Ritesh9811sahani/React-Native-OneSignal.git
+git clone https://github.com/Ritesh9811sahani/React-native-mobx.git
 
 cd ReactNativeOneSignalSample
 npm install
