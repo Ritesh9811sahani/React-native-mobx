@@ -5,7 +5,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 git clone https://github.com/Ritesh9811sahani/React-native-mobx.git
 
-cd ReactNativeOneSignalSample
 npm install
 react-native run-android for android
 For run in IOS device
